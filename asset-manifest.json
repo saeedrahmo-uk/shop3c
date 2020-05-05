@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shop3c/static/css/main.b100e6da.chunk.css",
+    "main.js": "/shop3c/static/js/main.5e7ed9e4.chunk.js",
+    "main.js.map": "/shop3c/static/js/main.5e7ed9e4.chunk.js.map",
+    "runtime-main.js": "/shop3c/static/js/runtime-main.e8259d82.js",
+    "runtime-main.js.map": "/shop3c/static/js/runtime-main.e8259d82.js.map",
+    "static/js/2.4df14d90.chunk.js": "/shop3c/static/js/2.4df14d90.chunk.js",
+    "static/js/2.4df14d90.chunk.js.map": "/shop3c/static/js/2.4df14d90.chunk.js.map",
+    "index.html": "/shop3c/index.html",
+    "precache-manifest.419a4f55101a9797339c7f254691a7f8.js": "/shop3c/precache-manifest.419a4f55101a9797339c7f254691a7f8.js",
+    "service-worker.js": "/shop3c/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/shop3c/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8259d82.js",
+    "static/js/2.4df14d90.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.5e7ed9e4.chunk.js"
+  ]
+}
